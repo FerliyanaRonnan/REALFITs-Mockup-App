@@ -94,7 +94,7 @@ Aplikasi akan terbuka sebagai window desktop dengan tiga panel:
 3. Klik **Upload Logo** untuk menambahkan logo (gunakan **Remove Logo BG** jika logo punya background putih)
 4. Atur ukuran/posisi logo dengan tombol **Logo (+) / Logo (-)** atau drag langsung di canvas
 5. Klik **Add Text** untuk menambahkan teks, lalu double-click teks di canvas untuk mengedit isinya
-6. Klik **Show/Hide Mannequin** untuk melihat preview di atas mannequin
+6. Klik **Show/Hide Mannequin** untuk melihat preview di atas mannequin 
 7. Ekspor hasil lewat **Export PNG** (flat) atau **Export to Mannequin** (realistis)
 
 **Shortcut**: tekan `Delete` atau `Backspace` setelah memilih (klik) sebuah teks untuk menghapusnya.
