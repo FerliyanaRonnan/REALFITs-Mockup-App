@@ -25,7 +25,7 @@ Aplikasi desktop berbasis **Tkinter** untuk mendesain mockup pakaian (hoodie, sw
 | Library | Fungsi |
 |---|---|
 | `tkinter` | GUI framework utama (canvas, button, dialog) |
-| `Pillow (PIL)` | Manipulasi gambar — resize, tinting warna, hapus background, render teks ke gambar |
+| `Pillow (PIL)` | Manipulasi gambar resize, tinting warna, hapus background, render teks ke gambar |
 | `pygame` | Memutar musik latar (`.mp3`) |
 | `os`, `platform` | Path handling dan deteksi font sistem lintas OS |
 
