@@ -2,7 +2,7 @@
 
 Aplikasi desktop berbasis **Tkinter** untuk mendesain mockup pakaian (hoodie, sweater, shirt) secara interaktif pilih template, ubah warna kain, upload logo, tambah teks custom, lalu ekspor hasilnya sebagai PNG flat maupun preview realistis di atas mannequin.
 
-> Tim Dev: Mario Zaqy A.P, Ferliyana Ronnan, M Syihabuddin I.
+> Tim Dev: Ferliyana Ronnan, Mario Zaqy A.P, M Syihabuddin I.
 
 ---
 
