@@ -103,7 +103,7 @@ Aplikasi akan terbuka sebagai window desktop dengan tiga panel:
 
 ## ⚠️ Catatan Teknis
 
-- Aplikasi ini adalah **script Tkinter biasa**, bukan notebook — harus dijalankan dari terminal/IDE lokal yang punya display (GUI). Tidak bisa dijalankan langsung di Jupyter/Colab tanpa display.
+- Aplikasi ini adalah **script Tkinter biasa**, bukan notebook harus dijalankan dari terminal/IDE lokal yang punya display (GUI). Tidak bisa dijalankan langsung di Jupyter/Colab tanpa display.
 - Path `Assets` dihitung relatif terhadap lokasi file `mockupapp.py` (`BASE_DIR = os.path.dirname(os.path.abspath(__file__))`), jadi pastikan struktur folder di atas tetap dijaga saat memindahkan project.
 - Jika file mannequin untuk template tertentu tidak ditemukan, aplikasi akan menampilkan dialog error (`Mannequin missing: ...`) saat mencoba **Export to Mannequin** atau toggle preview mannequin.
 - Penghapusan background logo (`Remove Logo BG`) menggunakan thresholding RGB sederhana (pixel terang dianggap background) paling efektif untuk logo dengan background putih solid, bukan untuk background kompleks/bertekstur.
